@@ -1,0 +1,52 @@
+* {
+  margin:0;
+  padding:0;
+}
+
+body {
+  margin: 0 auto;
+  color:black;
+  background:#add8e6;
+  font-family:'Open Sans',sans-serif;
+}
+
+h3{
+  color: #3da5bb;
+  padding-left: 1%;
+  font-size: 300%;
+  font-weight: bold;
+}
+
+form { 
+  background:darkcyan;
+  padding:6% 4% 4% 6%;
+  margin: 10px;
+}
+
+.color{
+  background:#343a40;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  padding-left: 1%;
+}
+
+.izquierda{
+  background:red;
+  padding-top: 1%;
+}
+
+.derecha{
+  background:green;
+  padding-top: 1%;
+}
+
+.boton{
+  width: 30px;
+  height: 30px;
+}
+
+
+
+
+
+
